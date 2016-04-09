@@ -1,0 +1,54 @@
+{
+  "id": 538938323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"CH",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404568329,
+        85633051,
+        101854447,
+        102062869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"23707599"
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062869,
+            "localadmin_id":404568329,
+            "locality_id":101854447,
+            "postalcode_id":538938323,
+            "region_id":85682337
+        }
+    ],
+    "wof:id":538938323,
+    "wof:lastmodified":1460094840,
+    "wof:name":"4039",
+    "wof:parent_id":"101854447",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
