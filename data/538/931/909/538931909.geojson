@@ -18,6 +18,7 @@
     "iso:country":"CH",
     "lbl:latitude":46.063294,
     "lbl:longitude":7.032848,
+    "mz:hierarchy_label":1,
     "src:geom":"chgov",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -32,7 +33,7 @@
         "gp:id":"12891207"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d2b66b8cecf0b5118f5a9c44af5c237c",
+    "wof:geomhash":"d4b3560549f8c9a4a45f59cbe92aeae3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,16 +45,17 @@
         }
     ],
     "wof:id":538931909,
-    "wof:lastmodified":1462397429,
+    "wof:lastmodified":1474569424,
     "wof:name":"1921",
     "wof:parent_id":404568155,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    6.985082071906577,
+    6.98508207190658,
     46.02297694315738,
     7.07597663646052,
     46.10296000556496

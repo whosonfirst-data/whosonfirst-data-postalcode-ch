@@ -18,6 +18,7 @@
     "iso:country":"CH",
     "lbl:latitude":46.4447,
     "lbl:longitude":8.157288,
+    "mz:hierarchy_label":1,
     "src:geom":"chgov",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -32,7 +33,7 @@
         "gp:id":"12891991"
     },
     "wof:country":"CH",
-    "wof:geomhash":"cac0c2ec9efc6853793c4c05dafcd066",
+    "wof:geomhash":"59f9f458fa05a7dca6341496f788c0e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,16 +45,17 @@
         }
     ],
     "wof:id":538933523,
-    "wof:lastmodified":1462397511,
+    "wof:lastmodified":1474569445,
     "wof:name":"3997",
     "wof:parent_id":404569033,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    8.133588070801022,
+    8.13358807080102,
     46.40722015252997,
     8.18036061039518,
     46.47603061176532
