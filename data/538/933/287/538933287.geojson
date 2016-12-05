@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002671,
+    "geom:area_square_m":22652065.781877,
     "geom:bbox":"7.93873024689,46.669969127,8.0278704243,46.7327763251",
     "geom:latitude":46.700628,
     "geom:longitude":7.990503,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538933287,
-    "wof:lastmodified":1474569441,
+    "wof:lastmodified":1480940023,
     "wof:name":"3807",
     "wof:parent_id":404568453,
     "wof:placetype":"postalcode",

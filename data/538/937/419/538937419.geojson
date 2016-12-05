@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
+    "geom:area_square_m":2759985.750388,
     "geom:bbox":"9.39931097894,47.4748832502,9.42502626597,47.4980522655",
     "geom:latitude":47.485822,
     "geom:longitude":9.411473,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538937419,
-    "wof:lastmodified":1474569502,
+    "wof:lastmodified":1480938212,
     "wof:name":"9305",
     "wof:parent_id":404572237,
     "wof:placetype":"postalcode",

@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000378,
+    "geom:area_square_m":3207363.245037,
     "geom:bbox":"6.92848262448,46.6524556973,6.96354875306,46.6775325766",
     "geom:latitude":46.663255,
     "geom:longitude":6.944232,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538931585,
-    "wof:lastmodified":1474569419,
+    "wof:lastmodified":1480938050,
     "wof:name":"1685",
     "wof:parent_id":404568435,
     "wof:placetype":"postalcode",

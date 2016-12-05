@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001018,
+    "geom:area_square_m":8552379.556976,
     "geom:bbox":"8.95482053921,47.2031441083,9.01024052346,47.2411804928",
     "geom:latitude":47.225211,
     "geom:longitude":8.980929,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":538936967,
-    "wof:lastmodified":1474569494,
+    "wof:lastmodified":1480937847,
     "wof:name":"8730",
     "wof:parent_id":101854283,
     "wof:placetype":"postalcode",

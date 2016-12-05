@@ -13,6 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00118,
+    "geom:area_square_m":10082738.414908,
     "geom:bbox":"6.14061059948,46.2844339131,6.21167483361,46.3174242737",
     "geom:latitude":46.302191,
     "geom:longitude":6.176856,
@@ -26,7 +27,7 @@
     "wof:belongsto":[
         85682325,
         102191581,
-        404570733,
+        404573203,
         85633051,
         101914093,
         102063049
@@ -42,14 +43,14 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063049,
-            "localadmin_id":404570733,
+            "localadmin_id":404573203,
             "locality_id":101914093,
             "postalcode_id":538931107,
             "region_id":85682325
         }
     ],
     "wof:id":538931107,
-    "wof:lastmodified":1474569414,
+    "wof:lastmodified":1480939688,
     "wof:name":"1295",
     "wof:parent_id":101914093,
     "wof:placetype":"postalcode",

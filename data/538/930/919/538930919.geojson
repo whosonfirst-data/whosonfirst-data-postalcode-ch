@@ -13,6 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001594,
+    "geom:area_square_m":13586809.80416,
     "geom:bbox":"6.2789194354,46.3985536921,6.3536588329,46.4505466411",
     "geom:latitude":46.423861,
     "geom:longitude":6.318543,
@@ -24,11 +25,11 @@
     "src:geom":"chgov",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85683227,
+        85682325,
         102191581,
         404567693,
-        85633147,
-        404227439
+        85633051,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +40,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633147,
+            "country_id":85633051,
+            "county_id":102063021,
             "localadmin_id":404567693,
-            "macroregion_id":404227439,
             "postalcode_id":538930919,
-            "region_id":85683227
+            "region_id":85682325
         }
     ],
     "wof:id":538930919,
-    "wof:lastmodified":1474569412,
+    "wof:lastmodified":1480939689,
     "wof:name":"1195",
     "wof:parent_id":404567693,
     "wof:placetype":"postalcode",

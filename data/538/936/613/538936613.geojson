@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
+    "geom:area_square_m":2699981.618616,
     "geom:bbox":"8.76320808219,47.493411099,8.79945049199,47.5155630283",
     "geom:latitude":47.505054,
     "geom:longitude":8.778615,
@@ -25,7 +26,6 @@
         102191581,
         404567873,
         85633051,
-        101748461,
         102063055
     ],
     "wof:breaches":[],
@@ -40,15 +40,14 @@
             "country_id":85633051,
             "county_id":102063055,
             "localadmin_id":404567873,
-            "locality_id":101748461,
             "postalcode_id":538936613,
             "region_id":85682309
         }
     ],
     "wof:id":538936613,
-    "wof:lastmodified":1474569488,
+    "wof:lastmodified":1480939863,
     "wof:name":"8409",
-    "wof:parent_id":101748461,
+    "wof:parent_id":404567873,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ch",
     "wof:superseded_by":[],

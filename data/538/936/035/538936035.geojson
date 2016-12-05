@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004556,
+    "geom:area_square_m":38749883.792638,
     "geom:bbox":"9.27826617067,46.4967420601,9.37331777882,46.5835787835",
     "geom:latitude":46.537102,
     "geom:longitude":9.329031,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538936035,
-    "wof:lastmodified":1474569480,
+    "wof:lastmodified":1480938108,
     "wof:name":"7435",
     "wof:parent_id":404567909,
     "wof:placetype":"postalcode",

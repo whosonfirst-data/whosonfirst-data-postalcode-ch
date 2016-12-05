@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002978,
+    "geom:area_square_m":25410337.472092,
     "geom:bbox":"6.93866568987,46.3358664696,7.03482983105,46.4149674078",
     "geom:latitude":46.373674,
     "geom:longitude":6.985555,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538931813,
-    "wof:lastmodified":1474569422,
+    "wof:lastmodified":1480938262,
     "wof:name":"1856",
     "wof:parent_id":404568527,
     "wof:placetype":"postalcode",

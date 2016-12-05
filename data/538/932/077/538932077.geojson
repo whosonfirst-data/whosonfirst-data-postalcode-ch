@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
+    "geom:area_square_m":3957005.080342,
     "geom:bbox":"6.88167609495,47.0292989795,6.91920042654,47.053238386",
     "geom:latitude":47.042727,
     "geom:longitude":6.901804,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538932077,
-    "wof:lastmodified":1474569426,
+    "wof:lastmodified":1480938264,
     "wof:name":"2046",
     "wof:parent_id":404571745,
     "wof:placetype":"postalcode",

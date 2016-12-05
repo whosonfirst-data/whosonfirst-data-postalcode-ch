@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004523,
+    "geom:area_square_m":38742523.491629,
     "geom:bbox":"6.79026683904,46.1292656322,6.91013658676,46.1900759493",
     "geom:latitude":46.158787,
     "geom:longitude":6.845946,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538931845,
-    "wof:lastmodified":1474569423,
+    "wof:lastmodified":1480939443,
     "wof:name":"1874",
     "wof:parent_id":404568139,
     "wof:placetype":"postalcode",

@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000613,
+    "geom:area_square_m":5243810.759371,
     "geom:bbox":"6.96765201262,46.2241717409,7.0028062593,46.2571481729",
     "geom:latitude":46.237743,
     "geom:longitude":6.984305,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":538931833,
-    "wof:lastmodified":1474569423,
+    "wof:lastmodified":1480939442,
     "wof:name":"1869",
     "wof:parent_id":404570695,
     "wof:placetype":"postalcode",

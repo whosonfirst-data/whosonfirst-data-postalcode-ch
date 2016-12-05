@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002355,
+    "geom:area_square_m":19885833.803574,
     "geom:bbox":"6.77225433929,46.8950133772,6.86569008949,46.9500830852",
     "geom:latitude":46.922762,
     "geom:longitude":6.819524,
@@ -24,9 +25,9 @@
     "wof:belongsto":[
         85682359,
         102191581,
-        404567833,
+        404569633,
         85633051,
-        102063053
+        102062939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +39,16 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063053,
-            "localadmin_id":404567833,
+            "county_id":102062939,
+            "localadmin_id":404569633,
             "postalcode_id":538932053,
             "region_id":85682359
         }
     ],
     "wof:id":538932053,
-    "wof:lastmodified":1474569426,
+    "wof:lastmodified":1480939949,
     "wof:name":"2022",
-    "wof:parent_id":404567833,
+    "wof:parent_id":404569633,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ch",
     "wof:superseded_by":[],

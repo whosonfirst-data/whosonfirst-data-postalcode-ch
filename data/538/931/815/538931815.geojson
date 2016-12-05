@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001892,
+    "geom:area_square_m":16159136.859812,
     "geom:bbox":"6.93175429247,46.2912572323,7.04037538549,46.3365973092",
     "geom:latitude":46.314655,
     "geom:longitude":6.971621,
@@ -26,7 +27,6 @@
         102191581,
         404568813,
         85633051,
-        101853849,
         102062783
     ],
     "wof:breaches":[],
@@ -41,15 +41,14 @@
             "country_id":85633051,
             "county_id":102062783,
             "localadmin_id":404568813,
-            "locality_id":101853849,
             "postalcode_id":538931815,
             "region_id":85682325
         }
     ],
     "wof:id":538931815,
-    "wof:lastmodified":1474569422,
+    "wof:lastmodified":1480939442,
     "wof:name":"1860",
-    "wof:parent_id":101853849,
+    "wof:parent_id":404568813,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-ch",
     "wof:superseded_by":[],

@@ -13,6 +13,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001824,
+    "geom:area_square_m":15627838.307405,
     "geom:bbox":"7.22994263478,46.11528476,7.29555510067,46.1825833804",
     "geom:latitude":46.147408,
     "geom:longitude":7.266271,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":538931901,
-    "wof:lastmodified":1474569424,
+    "wof:lastmodified":1480939452,
     "wof:name":"1914",
     "wof:parent_id":404568899,
     "wof:placetype":"postalcode",
